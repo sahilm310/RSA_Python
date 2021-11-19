@@ -1,3 +1,7 @@
+# Sahil Miah
+# Generate [public and private] RSA keys
+# Encrypt and decrypt messages
+
 from tkinter import * 
 import numpy as np
 import random
