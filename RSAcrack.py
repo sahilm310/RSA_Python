@@ -1,3 +1,6 @@
+# Sahil Miah
+# Decryption/cracking of RSA when only the public key is known
+# works with smaller numbers
 from tkinter import * 
 # modinverse using the Extended Euclidean algorithm
 # common denominator
